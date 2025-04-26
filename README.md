@@ -22,6 +22,8 @@ A Store wants to create an annual sales report for 2024 so that it can understan
 
 ## Dataset Column Description
 
+![Alt Text](Dataset Preview.png)
+
 * **Cust ID:** A unique identifier for each customer.
 * **Gender:** The gender of the customer.
 * **Age:** The age of the customer in years.
