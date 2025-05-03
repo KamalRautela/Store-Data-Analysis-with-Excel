@@ -39,6 +39,8 @@ A Store wants to create an annual sales report for 2024 so that it can understan
 * **ship-country:** The country to which the order was shipped (IN - India).
 * **B2B:** Indicates if the order was a Business-to-Business transaction (TRUE/FALSE).
 
+![Dataset Preview](https://github.com/KamalRautela/Store-Data-Analysis-with-Excel/blob/main/Dataset%20Preview.png)
+
 ## Questions
 
 * Which Month got the highest sales and Orders ?
@@ -47,6 +49,8 @@ A Store wants to create an annual sales report for 2024 so that it can understan
 * Top 10 States contributing to Sales.
 * Which Channel is contributing to the Sales ?
 * Highest Selling Category.
+
+![Dashboard Preview](https://github.com/KamalRautela/Store-Data-Analysis-with-Excel/blob/main/Dashboard%20Preview.png)
 
 ## Sample Insights
 
